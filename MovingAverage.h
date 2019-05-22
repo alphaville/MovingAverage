@@ -10,7 +10,7 @@ private:
 	// Vector with raw data
 	double * data;
 	double sum, average;
-	unsigned short index;
+	int index;
 	bool filter_complete;
 	void init();
 
